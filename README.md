@@ -10,6 +10,8 @@ in order to update the configuration of remote plugins.
 
 ## Basic Usage
 
+![usage](https://user-images.githubusercontent.com/1546064/229746171-f89470b3-6f12-419a-822f-62e4e31c7c20.mov)
+
 - commands:
 
     - `:ChatGPTSetup`: Initializes the plugin
