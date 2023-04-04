@@ -1,0 +1,22 @@
+*chatgpt.txt* A chatgpt client for neovim
+
+
+==============================================================================
+
+CONTENTS                                 *chatgpt-contents*
+
+    1. Introduction .................... |chatgpt-intro|
+
+
+Original Author:    Liu Yuan
+License:            The Unlicense
+
+INTRODUCTION                                *chatgpt-intro*
+
+This is a chatgpt client for neovim. You can seamlessly employ ChatGPT within
+Neovim, engaging in a dialogue with the model or executing commands through
+customized prompts.
+
+This plugin utilizes remote plugins of Neovim, therefore during the installation
+process, it is imperative to manually execute the command `:UpdateRemotePlugins`
+in order to update the configuration of remote plugins.
