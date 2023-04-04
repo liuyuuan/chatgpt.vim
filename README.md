@@ -10,7 +10,7 @@ in order to update the configuration of remote plugins.
 
 ## Basic Usage
 
-![usage](https://user-images.githubusercontent.com/1546064/229746171-f89470b3-6f12-419a-822f-62e4e31c7c20.mov)
+<video src="https://user-images.githubusercontent.com/1546064/229753659-d02ae1ab-b5af-4e69-9c80-d367b80ee92f.mov" controls="controls" style="max-width: 730px;" ></video>
 
 - commands:
 
