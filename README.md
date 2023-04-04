@@ -4,9 +4,9 @@ This is a chatgpt client for neovim. You can seamlessly employ ChatGPT within
 Neovim, engaging in a dialogue with the model or executing commands through
 customized prompts.
 
-This plugin utilizes remote plugins of Neovim, therefore during the installation
-process, it is imperative to manually execute the command `:UpdateRemotePlugins`
-in order to update the configuration of remote plugins.
+## Install
+Clone this repo into your `runtimepath`, or use Vundle.
+This is a remote plugin, remember to call `:UpdateRemotePlugin` at first.
 
 ## Basic Usage
 
